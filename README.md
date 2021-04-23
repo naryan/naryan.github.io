@@ -1,6 +1,6 @@
 # Narayan Porfolio ⚡️ 
 
-View my live website, **[click here](https://naryan.netlify.com/)**\
+View my live website, **[click here](https://naryan.netlify.com/)**
 
 ## License 📄
 
